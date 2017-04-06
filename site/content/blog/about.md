@@ -2,6 +2,7 @@
 date: '2017-03-09T13:19:25+08:00'
 draft: false
 title: about
+image: /img/IMG-20170327-WA0000.jpg
 ---
 
 This is your about me page. Use it to write up a witty and engaging description of yourself.
