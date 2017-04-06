@@ -1,6 +1,6 @@
 ---
-date = "2017-04-04T15:56:47+08:00"
-title = "omega guard"
+date: "2017-04-04T15:56:47+08:00"
+title: "omega guard"
 ---
 
 
