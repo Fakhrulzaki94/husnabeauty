@@ -17,9 +17,9 @@ blog  = "blog/:slug/"
 
 [params]
 author        = "Khalidah Alhusna" # Full name shows on blog post pages
-firstname     = "HusnaBeauty.Health" # First name shows in introduction on main page
-tagline       = "Hi, I'm Khlidah Alhusna Kamilen!" # Appears after the introduction
-avatar        = "img/profile.png" # Path to image in static folder eg. img/avatar.png
+firstname     = "Alhusna" # First name shows in introduction on main page
+tagline       = "Hi, I'm Khalidah Alhusna Kamilen!" # Appears after the introduction
+avatar        = "img/husna.jpg" # Path to image in static folder eg. img/avatar.png
 email         = "khalidahusna97@ymail.com" # Shows in contact section, or leave blank to omit
 dateform      = "Jan 2, 2006"
 dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
