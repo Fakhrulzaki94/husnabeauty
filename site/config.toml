@@ -17,8 +17,8 @@ blog  = "blog/:slug/"
 
 [params]
 author        = "Khalidah Alhusna" # Full name shows on blog post pages
-firstname     = "Husna" # First name shows in introduction on main page
-tagline       = "Welcome to my HusnaBeauty Shaklee page." # Appears after the introduction
+firstname     = "HusnaBeauty.Health" # First name shows in introduction on main page
+tagline       = "Hi, I'm Khlidah Alhusna Kamilen!" # Appears after the introduction
 avatar        = "img/profile.png" # Path to image in static folder eg. img/avatar.png
 email         = "khalidahusna97@ymail.com" # Shows in contact section, or leave blank to omit
 dateform      = "Jan 2, 2006"
@@ -39,6 +39,7 @@ pinterest     = ""
 facebook      = "byruni.husna"
 googleplus    = "102238963582710753994"
 instagram     = "husnabeauty.health"
+whatsapp      = "601133147038"
 
 showblog        = true # Show Blog section on home page
 showallposts    = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
